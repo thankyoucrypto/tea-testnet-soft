@@ -44,6 +44,10 @@
 **Папка modules**  
 Содержит файлы с маршрутами для каждого модуля.
 
+## ❔ ПОЛНАЯ ИНСТРУКЦИЯ
+- [teletype.in/@vpoiskahgema/tea-machine]([https://t.me/vpoiskahgema](https://teletype.in/@vpoiskahgema/tea-machine)) - читаем
+
+
 ## ❔ Куда писать свой вопрос?
 - [@vpoiskahgema](https://t.me/vpoiskahgema) - мой канал в Telegram
 - [@vpoiskahchata](https://t.me/vpoiskahchata) - чат для вопросов и пожеланий
